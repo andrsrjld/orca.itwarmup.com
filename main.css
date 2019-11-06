@@ -1,0 +1,102 @@
+
+.dropbtn {
+  color: white;
+  padding: 12px 16px;
+  font-size: 20px;
+  border: none;
+  font-family: "BebasNeue", Helvetica, Arial, sans-serif;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  border: 50px;
+  border-color: #ff0000;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.eluid61f581f1 {
+  color: #0a0a0a !important;
+}
+
+.eluidddd330ec {
+  color: #686868 !important;
+}
+
+.col-border--right {
+    border-right: 0px solid #e1e1e1 !important;
+}
+
+.btn.btn-fullcolor {
+  background-color: #ff0000 !important;
+}
+
+.eluida135790d {
+  background-color: #ff0000 !important;
+}
+
+.vert-sep {
+  height: 80px;
+  width: 1px;
+  background: #ff0000 !important;
+  margin: 0 auto;
+}
+
+.eluid8ab7f723.stage-ibx--points-full .stage-ibx__point::after {
+  background: #ff0000 !important;
+}
+
+.eluid10a9b32e.btn {
+  color: #ff0000 !important;
+}
+
+product-list-item text-custom-parent-hov prod-layout-classic{
+  background-color: #ff0000 !important;
+}
+
+.product-list-item.prod-layout-classic .kw-actions a, .woocommerce ul.products li.product .product-list-item.prod-layout-classic .kw-actions a {
+  background-color: #ff0000 !important;
+}
+
+.woocommerce ul.products li.product .product-list-item.prod-layout-classic .kw-actions a.actions-moreinfo {
+  color: #ffffff !important;
+}
+
+.woocommerce ul.products li.product .product-list-item.prod-layout-classic .kw-actions a.actions-moreinfo:hover {
+  color: #ffffff !important;
+}
+
+.actions-moreinfo{
+  background-color: white !important;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  font-family: "BebasNeue", Helvetica, Arial, sans-serif;
+}
+
+.kl-cart-button .svg-cart.kl-cart-icon:after {
+    background-color: #ff0000 !important;
+}
+
+.eluidfde40962 .kl-iconbox__inner .kl-iconbox__icon {
+    color: #b5b5b5 !important;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #ff0000;}
