@@ -27,6 +27,14 @@
   color: #0a0a0a !important;
 }
 
+.site-header {
+  background-color: #999b9f;
+}
+
+container siteheader-container {
+  background-color: #ffffff !important;
+}
+
 .eluidddd330ec {
   color: #686868 !important;
 }
