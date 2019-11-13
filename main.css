@@ -161,3 +161,7 @@ product-list-item text-custom-parent-hov prod-layout-classic{
 .site-header.style12 svg {
   color: black !important;
 }
+
+.sh--light .kl-cart-button .svg-cart.kl-cart-icon .svg-cart-icon {
+  fill: black;
+}
