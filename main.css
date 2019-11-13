@@ -165,3 +165,9 @@ product-list-item text-custom-parent-hov prod-layout-classic{
 .sh--light .kl-cart-button .svg-cart.kl-cart-icon .svg-cart-icon {
   fill: black;
 }
+
+
+.ketengah {
+  width: 100%;
+  padding-left: 50%;
+}
